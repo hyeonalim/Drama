@@ -1,0 +1,15 @@
+.container h2{
+    float: center;
+}
+
+.container ul li{
+    list-style: none;
+	float: left;
+    margin-left: 10px;
+	line-height: 10px;
+}
+
+.container a{
+    text-decoration: none;
+    float: center;
+}
